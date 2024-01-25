@@ -1,0 +1,9 @@
+D:\учим с++, проекты\Practica\x64\Debug\Practica.vcxproj.AssemblyReference.cache
+D:\учим с++, проекты\Practica\x64\Debug\Practica.vcxproj.SuggestedBindingRedirects.cache
+D:\учим с++, проекты\Practica\x64\Debug\Practica.Form1.resources
+D:\учим с++, проекты\Practica\x64\Debug\Practica.vcxproj.GenerateResource.cache
+D:\учим с++, проекты\Practica\x64\Debug\Practica.exe
+F:\Practica\x64\Debug\Practica.vcxproj.AssemblyReference.cache
+F:\Practica\x64\Debug\Practica.Form1.resources
+F:\Practica\x64\Debug\Practica.vcxproj.GenerateResource.cache
+F:\Practica\x64\Debug\Practica.exe
